@@ -1,6 +1,6 @@
 # PDF Chat Assistant with Gemini Flash 1.5
 
-[👉 Watch Full Demo](https://drive.google.com/file/d/1ZvhgL1CbbqCdVoANSKeaOP6yYzj3ioey/view?usp=sharing)
+[👉 Watch Full Demo](https://drive.google.com/file/d/1a24rUBTMB9E5yNPMtDnFbpcaaauazoSL/view?usp=sharing)
 
 ### 🏗️ System Architecture
 
