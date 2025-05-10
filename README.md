@@ -27,3 +27,21 @@ git clone https://github.com/somyajangir/Chat-with-Multiple-PDFs-using-RAG-and-G
 cd pdf-qa-assistant
 pip install -r requirements.txt
 cp .env.example .env  # Add your Gemini API key here
+
+## 🎥 Demo
+
+[👉 Watch Full Demo](YOUR_DRIVE_LINK_HERE)
+
+## 🏗️ System Architecture
+
+```mermaid
+flowchart TD
+    A[📄 PDF Upload] --> B[🧾 Text Extraction]
+    B --> C[✂️ Chunking]
+    C --> D[🔢 Vector Embedding]
+    D --> E[🗃️ FAISS Storage]
+    F[❓ User Query] --> G[🔍 Semantic Search]
+    G --> H[📚 Context Retrieval]
+    H --> I[🧠 Gemini Generation]
+    I --> J[✅ Answer + Sources]
+
