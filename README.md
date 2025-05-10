@@ -1,5 +1,7 @@
 # PDF Chat Assistant with Gemini Flash 1.5
 
+[👉 Watch Full Demo](https://drive.google.com/file/d/1ZvhgL1CbbqCdVoANSKeaOP6yYzj3ioey/view?usp=sharing)
+
 ## 📌 Features
 - **Multi-PDF Processing** - Analyze multiple documents simultaneously
 - **Smart Q&A** - Get accurate answers powered by Gemini Flash 1.5
@@ -27,11 +29,4 @@ git clone https://github.com/somyajangir/Chat-with-Multiple-PDFs-using-RAG-and-G
 cd pdf-qa-assistant
 pip install -r requirements.txt
 cp .env.example .env  # Add your Gemini API key here
-
-### 🎥 Demo
-
-[👉 Watch Full Demo](YOUR_DRIVE_LINK_HERE)
-
-### 🏗️ System Architecture
-
-![System Architecture](assets/architecture.png)
+streamlit run app.py
