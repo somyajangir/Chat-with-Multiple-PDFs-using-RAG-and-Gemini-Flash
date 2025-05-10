@@ -2,6 +2,10 @@
 
 [👉 Watch Full Demo](https://drive.google.com/file/d/1ZvhgL1CbbqCdVoANSKeaOP6yYzj3ioey/view?usp=sharing)
 
+### 🏗️ System Architecture
+
+![System Architecture](architecture.png)
+
 ## 📌 Features
 - **Multi-PDF Processing** - Analyze multiple documents simultaneously
 - **Smart Q&A** - Get accurate answers powered by Gemini Flash 1.5
